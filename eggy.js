@@ -48,6 +48,7 @@ XHR.addEventListener("readystatechange", function () {
 
 });
 
+console.log("christian choi")
 
 document.getElementById('translate').onclick = function(){
     translate();
