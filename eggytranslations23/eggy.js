@@ -46,11 +46,6 @@ XHR.addEventListener("readystatechange", function () {
 
 });
 
-<<<<<<< Updated upstream:eggy.js
-console.log("christian choi")
-
-=======
->>>>>>> Stashed changes:eggytranslations23/eggy.js
 document.getElementById('translate').onclick = function(){
     translate();
 };
