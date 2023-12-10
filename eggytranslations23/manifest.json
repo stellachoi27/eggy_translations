@@ -5,7 +5,7 @@
     "version": "1.0",
     "browser_action": {
       "default_popup": "eggy.html",
-      "default_icon": "eggy_extension.jpeg"
+      "default_icon": { "48": "eggy2.png" }
     },
     "permissions": [
       "activeTab",
