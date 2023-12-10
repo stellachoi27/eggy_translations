@@ -50,6 +50,7 @@ document.getElementById('translate').onclick = function(){
     translate();
 };
 
+import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 document.addEventListener("DOMContentLoaded", event => {
   const app = firebase.app();
 });
